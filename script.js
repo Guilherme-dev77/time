@@ -26,4 +26,3 @@ function fixZero(time) {
 }
 
 setInterval(updateClock, 1000);
-//vaicorinthians
